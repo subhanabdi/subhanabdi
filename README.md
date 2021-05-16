@@ -58,22 +58,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ---
 
-<br/>
 
-  <h2 align="center"> Github Statistics 📈 </h2>
-  
-  <div align="center"> 
-     <a href="">
-      <img align="center" src="https://github.com/subhanabdi/foodwebsite.git?username=Subhan&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-    </a>
-    <a href="">
-      <img align="center" src="https://github.com/subhanabdi/websiteproject3.git?username=Subhan&theme=react&line_height=40&hide=css"/>
-    </a>
-</div
-  
-<br/>
-
----
 
  ### ⭐️ From [SubhanAbidi](https://github.com/subhanabdi) ### 
  
