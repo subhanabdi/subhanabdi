@@ -67,6 +67,6 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 [website]: https://www.behance.net/subhanabid1ea4
 [instagram]: https://www.instagram.com/subhanabidi/
-[linkedin]: https://www.linkedin.com/in/subhan-abidi-85587b155/
+[linkedin]: https://www.linkedin.com/in/subhan-abidi-front-end-developer/
 
 
