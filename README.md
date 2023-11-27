@@ -4,7 +4,7 @@
 
 <div>
  <p>
-I am Mid-level Mern-Stack developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.
+My name is Subhan Abidi. As a Full Stack Engineer, I have developed robust and scalable web applications for various industries, such as health-tech, e-commerce, and AI, using React.js, Node.js, PHP, Python, Next.js, TypeScript, JavaScript, and other cutting-edge technologies. I have over 5+ years of professional experience, working with diverse and crossfunctional teams, delivering high-quality code and solutions, and continuously learning new skills and tools.
 
 I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
 </p>
